@@ -2,8 +2,8 @@
 
 namespace Phikhi\TestPackage\Tests;
 
-use Phikhi\TestPackage\TestPackage;
 use PHPUnit\Framework\TestCase;
+use Phikhi\TestPackage\TestPackage;
 
 class TestPackageTest extends TestCase
 {
