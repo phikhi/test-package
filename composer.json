@@ -1,0 +1,27 @@
+{
+    "name": "effinet/test-package",
+    "description": "test package description",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Philippe Khill",
+            "email": "philippe@effinet.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Effinet\\TestPackage\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Effinet\\TestPackage\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    }
+}
