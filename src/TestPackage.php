@@ -1,6 +1,6 @@
 <?php
 
-namespace Effinet\TestPackage;
+namespace Phikhi\TestPackage;
 
 class TestPackage
 {

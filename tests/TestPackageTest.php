@@ -1,8 +1,8 @@
 <?php
 
-namespace Effinet\TestPackage\Tests;
+namespace Phikhi\TestPackage\Tests;
 
-use Effinet\TestPackage\TestPackage;
+use Phikhi\TestPackage\TestPackage;
 use PHPUnit\Framework\TestCase;
 
 class TestPackageTest extends TestCase

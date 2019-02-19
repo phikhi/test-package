@@ -1,24 +1,23 @@
 {
-    "name": "effinet/test-package",
+    "name": "phikhi/test-package",
     "description": "test package description",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Philippe Khill",
-            "email": "philippe@effinet.com"
+            "name": "Phi Khi"
         }
     ],
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Effinet\\TestPackage\\": "src"
+            "Phikhi\\TestPackage\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Effinet\\TestPackage\\Tests\\": "tests"
+            "Phikhi\\TestPackage\\Tests\\": "tests"
         }
     },
     "require-dev": {
