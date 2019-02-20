@@ -3,7 +3,7 @@
 [![Style CI Status](https://github.styleci.io/repos/171487886/shield?style=flat)](https://github.styleci.io/repos/171487886)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/phikhi/test-package/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/phikhi/test-package/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/phikhi/test-package/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/phikhi/test-package/?branch=master)
-[![Build Status](https://travis-ci.com/phikhi/test-package.svg?branch=master)](https://travis-ci.com/phikhi/test-package)
+[![Build Status](https://travis-ci.org/phikhi/test-package.svg?branch=master)](https://travis-ci.org/phikhi/test-package)
 
 Test package description
 
