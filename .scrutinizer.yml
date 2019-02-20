@@ -5,7 +5,7 @@ build:
         override:
           - command: "./vendor/bin/phpunit --coverage-clover=coverage.clover"
             coverage:
-              file: build/logs/clover.xml
+              file: logs/clover.xml
               format: clover
 
 filter:
