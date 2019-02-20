@@ -1,5 +1,7 @@
 # Test package
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/phikhi/test-package/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/phikhi/test-package/?branch=master)
+
 Test package description
 
 ## Installation
